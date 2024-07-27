@@ -1,0 +1,13 @@
+1. 用 random_coding_loss 來選擇合適的 code rate
+   目前我們選定 code rate 為 1 b/s
+
+2. 用 entropy_calculation 來計算 I_.._..
+
+3. main_BEC 
+   main_new_JND --> 最後使用這個function
+   兩者在處理detector送出來的資訊有所不同
+   
+   main_BEC 算是低估
+      
+   
+
